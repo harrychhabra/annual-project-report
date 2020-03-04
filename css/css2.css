@@ -1,0 +1,20 @@
+.container{
+  width:50%;
+
+
+}
+.jumbotron h1{
+  font-size: 50px;
+    background-color:purple;
+color:white;
+}
+.jumbotron{
+
+}
+.navbar{
+  background-color:purple;
+
+}
+li{
+  color:white;
+}
